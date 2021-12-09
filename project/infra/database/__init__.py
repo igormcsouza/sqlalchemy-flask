@@ -1,0 +1,1 @@
+from project.infra.database.models.main import init_tables
