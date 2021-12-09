@@ -1,0 +1,1 @@
+from project.employee.main import init_app
